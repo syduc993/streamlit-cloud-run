@@ -3,5 +3,3 @@ google-cloud-bigquery==3.11.4
 pandas-gbq==0.19.2
 pandas==2.0.3
 numpy==1.24.3
-plotly==5.15.0
-altair==5.0.1
